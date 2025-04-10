@@ -1,5 +1,5 @@
 // src/components/TopPerformers.js
-import { topGainers, topLosers, formatPrice } from "@/lib/mockData";
+import { topGainers, topLosers, formatPrice } from "@/lib/MockData";
 
 export default function TopPerformers() {
   return (
