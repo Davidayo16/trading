@@ -1,6 +1,6 @@
 // src/components/TradingTable.js
 import { useState } from "react";
-import { tradingPairs, formatPrice, formatChange } from "@/lib/mockData";
+import { tradingPairs, formatPrice, formatChange } from "@/lib/MockData";
 
 export default function TradingTable() {
   const [favorites, setFavorites] = useState(
