@@ -1,5 +1,5 @@
 // src/components/StatsBar.js
-import { statsData, formatLargeNumber } from "@/lib/mockData";
+import { statsData, formatLargeNumber } from "@/lib/MockData";
 
 export default function StatsBar() {
   return (
